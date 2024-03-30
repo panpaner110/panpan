@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+void tongj0210() {
+	cout << "HELLO WORLD!" << endl;
+}
+int main()
+{
+	tongj0210();
+	return 0;
+}
